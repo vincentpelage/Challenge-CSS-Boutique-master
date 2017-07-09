@@ -65,6 +65,10 @@ Voyons voir :
 * [https://developer.mozilla.org/fr/docs/Web/CSS/Type_color#rgba
 * https://developer.mozilla.org/fr/docs/Web/CSS/box-sizing
 
+## Rendu liste produits
+
+![resultat](resultat-product-list.png)
+
 ## Bonus
 
 - On peut utiliser [font awesome](http://fontawesome.io/) pour la loupe sur la page listing.
@@ -73,3 +77,7 @@ Voyons voir :
 
 - Et dernier bonus… Faire la page produit !
 ![product](product.png)
+
+## Rendu fiche produit
+
+![resultat](resultat-product.png)

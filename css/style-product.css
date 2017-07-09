@@ -61,7 +61,7 @@ aside .new-price {
 	font-size: 19px;
 }
 
-main span {
+.long-desc-product span, .price-bottom-product > span {
     color: #000;
     font-family: 'Playfair Display', serif;
     font-size: 35px;
